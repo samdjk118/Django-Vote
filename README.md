@@ -1,1 +1,6 @@
 # Django-Vote
+
+## Quick start
+```
+  
+``` 
